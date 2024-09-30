@@ -1,0 +1,132 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grace Glow</title>
+    <link rel="stylesheet" href="styles.css">
+
+    
+</head>
+<body bgcolor="pink">
+    <header>
+        <nav>
+            <center>
+            <h1>Welcome to Our Website</h1>
+<h1>Explore our content and find amazing offers!</h1>
+<h1>Grace Glow</h1>
+        <h4>powerful Marine Ingredients</h4>
+            <img src="photologo.jpg" alt="Grace Glow" class="logo">
+            <hr>
+            <!-- Add additional navigation items here -->
+    
+    
+        <img src="graceglow.webp" alt="Description of Image" width="2600" height="700">
+        <h1>
+            <a href="https://www.gracenglow.me/">GRACE AND GLOW</a>
+        </h1>
+        <hr>
+            </center>
+    <title>Sales Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .product {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 10px;
+            width: 200px;
+            text-align: center;
+        }
+        .product img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .product h2 {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        .product p {
+            font-size: 16px;
+            color: green;
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+</body>
+<div class="serum">
+    <img src="body serum.webp" alt="Product 1" width="600" height="600">
+    <h2>Body Serum</h2>
+    <h2>$19.99</h2>
+</div>
+
+<div class="serum">
+    <img src="face serum.webp" alt="Product 2" width="600" height="600">
+    <h2>Face Serum</h2>
+    <h2>$29.99</h2>
+</div>
+
+<div class="serum">
+    <img src="hair serum.webp" alt="Product 3" width="600" height="600">
+    <h2>Hair serum</h2>
+    <h2>$39.99</h2>
+</div>
+
+<div class="serum">
+    <img src="cream.webp" alt="Product 4" width="600" height="600">
+    <h2>cream.webp</h2>
+    <h2>$49.99</h2>
+
+</div>
+
+</body>
+</html>
+    <title>Simple Navigation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        nav {
+            background-color: pink;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        .search-icon {
+            float: right;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+
+</html>
+
+
+        <h1>contact</h1>
+        <h2>gracenglow@gmail.com|gracenglow</h2>
+
+        
+        <button onclick="location.href='shop.html'">Shop Now</button>
+    </section>
+
+    <footer>
+        <p>© 2024 GraceGlow. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
